@@ -5,4 +5,6 @@ Included in this repo:
 - Jupyter notebook for Jokes Topic Modeling via NMF and Recommender Approaches 
 - Presentation slides
 - Data
+  
+![image](https://github.com/user-attachments/assets/b03edba1-443e-4267-85ae-8abad2b65405)
 
